@@ -22,4 +22,6 @@ end
 # result
 
 def printer(attendees)
+  attendees.each do |name|
+    
 end
