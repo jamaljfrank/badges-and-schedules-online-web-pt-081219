@@ -21,4 +21,4 @@ end
 # end
 # result
 
-
+def printer(attendees)
