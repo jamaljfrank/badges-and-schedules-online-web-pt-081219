@@ -10,4 +10,4 @@ end
 
 def assign_rooms(attendees)
   attendees.each_with_index.map do |name, room_number|
-    "Hello #{name}!"
+    "Hello #{name}! You'll be assigned to room #{"
