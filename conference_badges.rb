@@ -16,4 +16,4 @@ end
 # counter = 1 
 # result = []
 # attendees.each do |name|
-# result << 
+# result << "Hello, #{name}"
