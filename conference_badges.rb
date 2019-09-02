@@ -15,4 +15,5 @@ def assign_rooms(attendees)
 end
 # counter = 1 
 # result = []
-# attendees.each do 
+# attendees.each do |name|
+# result << 
