@@ -22,6 +22,7 @@ end
 # result
 
 def printer(attendees)
+  attendees()
   assign_rooms(attendees).each do |message|
     puts message
 end
