@@ -22,5 +22,5 @@ end
 # result
 
 def printer(attendees)
-  assign_rooms
+  assign_rooms(attendees)
 end
