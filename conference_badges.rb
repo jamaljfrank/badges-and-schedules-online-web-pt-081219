@@ -30,4 +30,4 @@ def printer(attendees)
 end
 end
 
-# attendees
+# attendees.each_with_index
