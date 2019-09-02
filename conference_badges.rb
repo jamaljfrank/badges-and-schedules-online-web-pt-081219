@@ -32,4 +32,4 @@ end
 
 # attendees.each_with_index do |name, room_number|
 # puts badge_maker(name)
-# puts assign_rooms()
+# puts assign_room()
