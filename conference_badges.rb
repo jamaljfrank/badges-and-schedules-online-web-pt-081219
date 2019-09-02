@@ -17,4 +17,5 @@ end
 # result = []
 # attendees.each do |name|
 # result << "Hello, #{name}! You'll be assigned to room #{counter}!"
-# counter += 1
+# counter += 1 
+
