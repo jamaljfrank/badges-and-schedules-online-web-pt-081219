@@ -22,3 +22,4 @@ end
 # result
 
 def printer(attendees)
+end
