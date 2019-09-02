@@ -30,4 +30,4 @@ def printer(attendees)
 end
 end
 
-# attendees.each_with_index
+# attendees.each_with_index do |name, room_number|
