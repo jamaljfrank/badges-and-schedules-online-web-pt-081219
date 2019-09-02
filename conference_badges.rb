@@ -14,4 +14,5 @@ def assign_rooms(attendees)
   end
 end
 # counter = 1 
-
+# result = []
+# 
